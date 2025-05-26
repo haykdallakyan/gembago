@@ -152,6 +152,9 @@ const PrivacyPolicy: React.FC = () => {
           <p className="mb-6">
             To ask questions or comment about this privacy policy and our
             privacy practices, contact us at hayk@leanleaderformula.com
+            
+          </p>
+          <p className="mb-6">
             If you wish to delete your partial or full data please contact us at hayk@leanleaderformula.com
           </p>
         </div>
