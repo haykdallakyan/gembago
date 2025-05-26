@@ -10,6 +10,7 @@ import HowItWorks from './components/HowItWorks';
 import FAQ from './components/FAQ';
 import FinalCTA from './components/FinalCTA';
 import Footer from './components/Footer';
+import PrivacyPolicy from './components/PrivacyPolicy';
 import WhatIsGemba from './components/WhatIsGemba';
 import CaseStudies from './components/CaseStudies';
 
@@ -35,6 +36,7 @@ function App() {
           <Routes>
             <Route path="/" element={<HomePage />} />
             <Route path="/what-is-gemba" element={<WhatIsGemba />} />
+            <Route path="/privacy-policy" element={<PrivacyPolicy />} />
             <Route path="/case-studies" element={<CaseStudies />} />
           </Routes>
         </main>
