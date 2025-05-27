@@ -11,7 +11,7 @@ const Hero: React.FC = () => {
               Transform Your Gemba Walks with 3X More Efficiency
             </h1>
             <p className="text-xl md:text-2xl text-gray-700 mb-8 animate-fade-in-delay-1">
-              Make your Gemba walks <span className="font-bold text-green-700">10x more efficient</span> with team integration and AI-powered analytics
+              Make your Gemba walks <span className="font-bold text-green-700">10x more efficient</span> with team integration and detailed and faster analytics
             </p>
             <div className="flex flex-col sm:flex-row justify-center md:justify-start space-y-4 sm:space-y-0 sm:space-x-4 animate-fade-in-delay-2">
               <a 
