@@ -18,7 +18,7 @@ const Hero: React.FC = () => {
                 href="mailto:hayk@leanleaderformula.com" 
                 className="bg-blue-600 hover:bg-blue-700 text-white text-lg font-medium px-8 py-3 rounded-lg transition-colors shadow-lg hover:shadow-xl"
               >
-                Contact us to get GembaGo AI
+                Contact us to get GembaGo mobile application
               </a>
               <a 
                 href="#how-it-works" 
