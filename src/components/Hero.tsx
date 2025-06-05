@@ -8,7 +8,7 @@ const Hero: React.FC = () => {
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 md:pr-12 text-center md:text-left mb-8 md:mb-0">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-blue-900 leading-tight mb-4 animate-fade-in">
-              Transform Your Gemba Walks with 3X More Efficiency
+              Transform Your Gemba Walks with 10X More Efficiency
             </h1>
             <p className="text-xl md:text-2xl text-gray-700 mb-8 animate-fade-in-delay-1">
               Make your Gemba walks <span className="font-bold text-green-700">10x more efficient</span> with team integration and detailed and faster analytics
