@@ -25,6 +25,10 @@ const FAQ: React.FC = () => {
       question: "How long does it take to implement GembaGo AI?",
       answer: "Most teams are up and running with GembaGo AI in less than a week. The app is intuitive and requires minimal training. Our onboarding process includes guided setup, team configuration for your specific team, and optional training sessions for your team."
     }
+    {
+      question: "Are there any instructions on how to use the App?",
+      answer: "Absolutely. Follow this link to learn how to use the app: https://drive.google.com/file/d/1zVTdEA-VwbylOD1KCyC7aa_g2tZz6P3V/view?usp=drive_link "
+    }
   ];
 
   const toggleFaq = (index: number) => {
