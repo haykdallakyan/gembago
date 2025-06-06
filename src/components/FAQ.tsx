@@ -27,7 +27,7 @@ const FAQ: React.FC = () => {
     },
     {
       question: "Are there any instructions on how to use the App?",
-      answer: "Absolutely. Follow this link to learn how to use the app: https://drive.google.com/file/d/1zVTdEA-VwbylOD1KCyC7aa_g2tZz6P3V/view?usp=drive_link "
+      answer: "Absolutely. Follow this link to learn how to use the app:(just copy and paste to your browser) https://drive.google.com/file/d/1zVTdEA-VwbylOD1KCyC7aa_g2tZz6P3V/view?usp=drive_link "
     }
   ];
 
